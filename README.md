@@ -17,6 +17,8 @@ installation
 1. opencv library
 2. facerecognition library
 
+Note:Use python of version 3.7 because facerecognition library only get downloaded in python 3.7 version
+
 After downloading
 
 create a csv file with name attendance.csv
